@@ -1,0 +1,43 @@
+NAME: Rahul Verma
+LOCATION: Bengaluru, India
+EMAIL: rahul@gmail.com
+PHONE: +91-9387366562
+LINKEDIN: linkedin.com/in/yourprofile
+GITHUB: github.com/yourusername
+
+SUMMARY:
+I am a B.Tech Computer Science student with a strong interest in AI and full stack development.
+I love building projects that solve real problems using modern technologies.
+I am looking for opportunities to grow as a software engineer in a dynamic environment.
+
+EDUCATION:
+Degree: B.Tech in Computer Science
+College: RV College of Engineering, Bangalore
+Year: 2022 - 2026
+CGPA: 8.5
+
+SKILLS:
+Languages: Python, JavaScript, Java
+Frameworks: React, FastAPI, Node.js
+Databases: MySQL, MongoDB
+Tools: Git, Docker, VS Code
+Cloud: AWS, GCP
+
+PROJECTS:
+Project 1:
+Name: Food Delivery App
+Description: Full stack food ordering platform with real time order tracking
+Technologies: React, Node.js, MongoDB, Socket.io
+Outcome: Successfully delivered 1000+ orders in demo environment
+
+
+EXPERIENCE:
+Company: XYZ Company
+Role: Software Intern
+Duration: June 2025 - August 2025
+Work: What you did there
+
+HOBBIES:
+- Competitive Programming
+- Open Source Contributions
+- Chess
