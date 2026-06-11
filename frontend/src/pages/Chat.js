@@ -20,7 +20,7 @@ function Chat() {
     setLoading(true);
 
     try {
-      const response = await axios.post("http://127.0.0.1:8000/ask", {
+        const response = await axios.post("https://devaisha21-candidate-agent-backend.hf.space/ask", {
         question: question,
       });
       const botMessage = { role: "bot", text: response.data.answer };
