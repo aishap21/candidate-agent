@@ -3,7 +3,7 @@
 An AI-powered interview agent that answers questions about a candidate's profile using Retrieval-Augmented Generation (RAG).
 
 ## Live Demo
-🔗 [Deployed App URL here]
+🔗 🔗 https://candidate-agent-zeta.vercel.app
 
 ## Tech Stack
 - **Frontend:** React.js, Firebase Auth
