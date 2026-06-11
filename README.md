@@ -11,7 +11,7 @@ An AI-powered interview agent that answers questions about a candidate's profile
 - **LLM:** Groq (Llama 3.1)
 - **RAG:** LangChain + FAISS + HuggingFace Embeddings
 - **Authentication:** Firebase (Google + Email/Password)
-- **Deployment:** Render (Backend), Vercel (Frontend)
+- **Deployment:** Hugging Face Spaces (Backend), Vercel (Frontend)
 
 ## Architecture
 
