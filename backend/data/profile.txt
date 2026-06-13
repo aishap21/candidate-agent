@@ -1,43 +1,67 @@
-NAME: Rahul Verma
-LOCATION: Bengaluru, India
-EMAIL: rahul@gmail.com
-PHONE: +91-9387366562
-LINKEDIN: linkedin.com/in/yourprofile
-GITHUB: github.com/yourusername
+NAME: Aishwarya Patil
+LOCATION: Bengaluru, Karnataka, India
+EMAIL: aishwaryapatil0021@gmail.com
+PHONE: +91-9741511543
+LINKEDIN: www.linkedin.com/in/aishwarya-patil-5463a9261
+GITHUB: https://github.com/aishap21
 
 SUMMARY:
-I am a B.Tech Computer Science student with a strong interest in AI and full stack development.
-I love building projects that solve real problems using modern technologies.
-I am looking for opportunities to grow as a software engineer in a dynamic environment.
+I am a Computer Science Engineering graduate with a CGPA of 8.7, having internship experience building production-grade Java Spring Boot backends. I am skilled in RESTful API development, JWT authentication, Spring Security, Hibernate/JPA ORM, and relational database design with MySQL and PostgreSQL. I have a proven ability to deliver scalable, full-stack enterprise applications and I am seeking a Junior Java Developer role in a dynamic and growth-driven organization.
 
 EDUCATION:
-Degree: B.Tech in Computer Science
-College: RV College of Engineering, Bangalore
-Year: 2022 - 2026
-CGPA: 8.5
+Degree: B.E. in Computer Science and Engineering
+College: Basavakalyan Engineering College
+Year: 2021 - 2025
+CGPA: 8.7 / 10
+
+Higher Secondary Certificate (12th)
+College: Diamond PU College
+Year: 2020 - 2021
+Percentage: 93%
+
+Secondary School Certificate (10th)
+School: Shree Basaveshwara Higher Primary & High School
+Year: 2018 - 2019
+Percentage: 91.35%
 
 SKILLS:
-Languages: Python, JavaScript, Java
-Frameworks: React, FastAPI, Node.js
-Databases: MySQL, MongoDB
-Tools: Git, Docker, VS Code
-Cloud: AWS, GCP
+Languages: Java (Primary), Python, JavaScript, SQL
+Backend: Spring Boot 3.x, Spring MVC, Spring Security, REST API, Hibernate/JPA, JWT
+Frontend: React.js, HTML5, CSS3
+Databases: MySQL, PostgreSQL, Spring Data JPA
+Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code, Swagger/OpenAPI, Render
+Concepts: OOP, MVC, CRUD, Exception Handling
 
 PROJECTS:
 Project 1:
-Name: Food Delivery App
-Description: Full stack food ordering platform with real time order tracking
-Technologies: React, Node.js, MongoDB, Socket.io
-Outcome: Successfully delivered 1000+ orders in demo environment
+Name: Online Food Ordering Application
+Description: Developed a full-stack web app with user authentication, restaurant management, and order processing using layered MVC architecture and global exception handling
+Technologies: Spring Boot, Hibernate/JPA, MySQL, REST API
+Outcome: Designed RESTful APIs for all core modules, integrated MySQL via Hibernate/JPA for efficient data mapping, validated all endpoints using Postman
 
+Project 2:
+Name: Employee Management System
+Description: Built a CRUD full-stack application integrating a React.js frontend with Spring Boot REST APIs for seamless employee record management - add, update, delete, and view operations
+Technologies: Spring Boot, React.js, MySQL, REST API
+Outcome: Validated all API endpoints using Postman, persisted and retrieved employee data through MySQL backend services with proper request-response handling
+
+Project 3:
+Name: RAG Candidate Profile Agent
+Description: AI powered personal profile agent that answers interview questions
+Technologies: Python, FastAPI, LangChain, Groq API, React, FAISS, Firebase Auth
+Outcome: Built a smart Q&A system that retrieves profile data using RAG pipeline and answers interview questions in first person
 
 EXPERIENCE:
-Company: XYZ Company
-Role: Software Intern
-Duration: June 2025 - August 2025
-Work: What you did there
+Company: Landmine Soft
+Role: Software Developer Intern
+Duration: March 2026 - April 2026
+Work: Built 10+ RESTful APIs using Spring Boot 3.2 with JWT authentication, BCrypt password hashing, and Spring Security for a College Student Portal (LMS) covering enrollment, attendance, marks, and fee payment. Architected a normalized 11-table PostgreSQL/MySQL schema with FK constraints and JPA/Hibernate ORM mapping. Delivered Swagger/OpenAPI documentation, automated Postman test suite, and deployed backend to Render using Git/GitHub feature-branch workflow.
+
+CERTIFICATIONS:
+Java Full Stack Development - JSpiders, Bengaluru (May 2025 - Nov 2025)
+6-month intensive program covering Spring Boot, REST APIs, React.js, MySQL, and Git/GitHub with hands-on project development.
 
 HOBBIES:
-- Competitive Programming
-- Open Source Contributions
-- Chess
+- Coding and building side projects
+- Exploring new technologies
+- Problem solving on coding platforms

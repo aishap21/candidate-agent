@@ -40,7 +40,7 @@ def ask_question(request: QuestionRequest):
 
 @app.post("/login")
 def login(request: LoginRequest):
-    if request.email == "rahul@email.com" and request.password == "rahul123":
+    if request.email == "aishwarya@email.com" and request.password == "aishwarya123":
         return {"message": "Login successful", "user": request.email}
     else:
         raise HTTPException(status_code=401, detail="Invalid credentials")

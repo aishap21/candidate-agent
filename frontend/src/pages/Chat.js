@@ -41,20 +41,20 @@ function Chat() {
   return (
     <div style={styles.container}>
       <div style={styles.header}>
-        <h2 style={styles.headerTitle}>Rahul's Interview Agent</h2>
+        <h2 style={styles.headerTitle}>Aishwarya's Interview Agent</h2>
         <button style={styles.logoutBtn} onClick={handleLogout}>Logout</button>
       </div>
 
       <div style={styles.chatBox}>
         {messages.length === 0 && (
-          <p style={styles.placeholder}>Ask me anything about Rahul's profile!</p>
+          <p style={styles.placeholder}>Ask me anything about Aishwarya's profile!</p>
         )}
         {messages.map((msg, index) => (
           <div
             key={index}
             style={msg.role === "user" ? styles.userMessage : styles.botMessage}
           >
-            <strong>{msg.role === "user" ? "You" : "Rahul"}:</strong> {msg.text}
+            <strong>{msg.role === "user" ? "You" : "Aishwarya"}:</strong> {msg.text}
           </div>
         ))}
         {loading && <div style={styles.botMessage}>Thinking...</div>}
