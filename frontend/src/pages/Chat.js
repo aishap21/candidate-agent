@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { auth } from "../firebase";
 import { signOut } from "firebase/auth";
 import { useNavigate } from "react-router-dom";
@@ -10,6 +10,12 @@ function Chat() {
   const [loading, setLoading] = useState(false);
   const navigate = useNavigate();
 
+
+  useEffect(() => {
+    axios.get("https://devaisha21-candidate-agent-backend.hf.space/")
+      .catch(() => {});
+  }, []);
+
   const handleAsk = async (e) => {
     e.preventDefault();
     if (!question.trim()) return;
@@ -20,9 +26,9 @@ function Chat() {
     setLoading(true);
 
     try {
-        const response = await axios.post("https://devaisha21-candidate-agent-backend.hf.space/ask", {
+      const response = await axios.post("https://devaisha21-candidate-agent-backend.hf.space/ask", {
         question: question,
-      });
+      }, { timeout: 60000 });
       const botMessage = { role: "bot", text: response.data.answer };
       setMessages((prev) => [...prev, botMessage]);
     } catch (err) {
