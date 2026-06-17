@@ -1,35 +1,21 @@
-NAME: Aishwarya Patil
+NAME: Rahul verma
 LOCATION: Bengaluru, Karnataka, India
-EMAIL: aishwaryapatil0021@gmail.com
-PHONE: +91-9741511543
+EMAIL: rahul@gmail.com
+PHONE: +91-97867565
 LINKEDIN: www.linkedin.com/in/aishwarya-patil-5463a9261
 GITHUB: https://github.com/aishap21
 
 SUMMARY:
 I am a Computer Science Engineering graduate with a CGPA of 8.7, having internship experience building production-grade Java Spring Boot backends. I am skilled in RESTful API development, JWT authentication, Spring Security, Hibernate/JPA ORM, and relational database design with MySQL and PostgreSQL. I have a proven ability to deliver scalable, full-stack enterprise applications and I am seeking a Junior Java Developer role in a dynamic and growth-driven organization.
 
-EDUCATION:
-Degree: B.E. in Computer Science and Engineering
-College: Basavakalyan Engineering College
-Year: 2021 - 2025
-CGPA: 8.7 / 10
 
-Higher Secondary Certificate (12th)
-College: Diamond PU College
-Year: 2020 - 2021
-Percentage: 93%
-
-Secondary School Certificate (10th)
-School: Shree Basaveshwara Higher Primary & High School
-Year: 2018 - 2019
-Percentage: 91.35%
 
 SKILLS:
-Languages: Java (Primary), Python, JavaScript, SQL
-Backend: Spring Boot 3.x, Spring MVC, Spring Security, REST API, Hibernate/JPA, JWT
+Languages: c++, c
+Backend: Andriod development, Kotlin
 Frontend: React.js, HTML5, CSS3
-Databases: MySQL, PostgreSQL, Spring Data JPA
-Tools: Git, GitHub, Postman, IntelliJ IDEA, VS Code, Swagger/OpenAPI, Render
+Databases:  Azure storage accounts
+Tools: Git, GitHub, Render
 Concepts: OOP, MVC, CRUD, Exception Handling
 
 PROJECTS:
